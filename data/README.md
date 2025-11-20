@@ -1,1 +1,1 @@
-You can download this GapMinder Health Analysis dataset.
+You can download this GapMinder Health Analysis dataset in CSV format.
